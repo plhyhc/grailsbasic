@@ -1,4 +1,4 @@
 language: java
   - oraclejdk8
 script:
-- ./gradlew bootRun
+- ./gradlew build
